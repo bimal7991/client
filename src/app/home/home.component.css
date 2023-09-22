@@ -1,0 +1,5 @@
+.register{
+  height: 60vh !important;
+  width: 100% !important;
+  overflow-y: none;
+}
